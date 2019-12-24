@@ -1,2 +1,2 @@
-# Python
+# Python - Classwork
 Basics of python
